@@ -104,3 +104,8 @@ Portfólio: https://brunodev.site/
 
 Observação:  
 Projeto desenvolvido com foco em aprendizado prático e simulação de cenários reais encontrados no dia a dia de um desenvolvedor Java em ambiente corporativo.
+
+
+## 📂 Estrutura do Projeto
+
+![Estrutura do Projeto](docs/images/Diagrama%20Finalizado.PNG)
